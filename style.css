@@ -1,0 +1,18 @@
+  
+body {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  }
+
+a,
+a:hover {
+  text-decoration: none;
+}
+
+.absolute-right {
+  right: 15px;
+}
+
+.front {
+  z-index: 10;
+}
